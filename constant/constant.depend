@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1480690912 source:/home/lau/CProjects/c Work/constant/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1480690872 source:/home/lau/CProjects/c Work/constant/main(2).c
+	<stdio.h>
+
