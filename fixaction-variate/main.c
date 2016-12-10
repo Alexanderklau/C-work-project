@@ -9,7 +9,7 @@ int main()
     printf("Input the diameter of the table:");
     scanf("%f",&diameter);
     redius = diameter/2.0f;
-    printf("\nThe circumference is %.2f",2.0f *Pi *redius);
-    printf("\nThe area is %.2f.\n",Pi *redius * redius);
+    printf("\nThe circumference is %.2f",2.0f * Pi * redius);
+    printf("\nThe area is %.2f.\n",Pi * redius * redius);
     return 0;
 }
