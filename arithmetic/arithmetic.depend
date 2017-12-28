@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1501160725 source:/media/yemilice/ec7580fb-94f0-4123-aea0-a1bfddcd32bb/home/lau/Code/C-work-project/arithmetic/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1501161883 source:/media/yemilice/ec7580fb-94f0-4123-aea0-a1bfddcd32bb/home/lau/Code/C-work-project/arithmetic/main2.c
+	<stdio.h>
+
